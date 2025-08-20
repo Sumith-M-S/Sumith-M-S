@@ -47,9 +47,10 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [**COVID-19 Spread Prediction**]((https://github.com/Sumith-M-S/Computational-tracking-and-estimating-of-covid-19-dynamic-broadcast-based-on-machine-learning.) | Python, Pandas, Scikit-learn, Matplotlib | ML model to predict the spread with 85% accuracy using large datasets |
-| [**Blood Bank Management System**](https://github.com/Sumith-M-S/Blood-Bank-Management-System) | Python, MySQL, Tkinter | GUI-based app for blood donation, search, and inventory management |
-| [**Student Exam Portal**](https://github.com/Sumith-M-S/Student_Exam_Portal) | Python, SQLite, Tkinter, Pillow | A desktop-based portal to manage students, courses, and results with login system, dashboard, and snapshot views |
+| [**COVID-19 Spread Prediction**](https://github.com/Sumith-M-S/Computational-tracking-and-estimating-of-covid-19-dynamic-broadcast-based-on-machine-learning) | Python, Pandas, Scikit-Learn, Matplotlib | Machine learning model to track and estimate COVID-19 spread dynamics using large-scale datasets, achieving an accuracy of ~85% :contentReference[oaicite:1]{index=1} |
+| [**Blood Bank Management System**](https://github.com/Sumith-M-S/Blood-Bank-Management-System) | Python, MySQL, Tkinter | GUI-based application for blood donation, donor search, and inventory tracking |
+| [**Student Exam Portal**](https://github.com/Sumith-M-S/Student_Exam_Portal) | Python, SQLite, Tkinter, Pillow | A desktop portal to manage students, courses, and exam results with login system and dashboard views |
+
 
 
 ---
