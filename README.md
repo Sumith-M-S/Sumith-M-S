@@ -46,9 +46,11 @@
 ### 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
-|--------|------------|-------------|
+|---------|------------|-------------|
 | [**COVID-19 Spread Prediction**](https://github.com/Sumith-M-S/Computational-tracking-and-estimating-of-covid-19-dynamic-broadcast-based-on-machine-learning) | Python, Pandas, Scikit-learn, Matplotlib | ML model to predict the spread with 85% accuracy using large datasets |
 | [**Blood Bank Management System**](https://github.com/Sumith-M-S/Blood-Bank-Management-System) | Python, MySQL, Tkinter | GUI-based app for blood donation, search, and inventory management |
+| [**Student Exam Portal**](https://github.com/Sumith-M-S/Student_Exam_Portal) | Python, SQLite, Tkinter, Pillow | A desktop-based portal to manage students, courses, and results with login system, dashboard, and snapshot views |
+
 
 ---
 
